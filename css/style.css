@@ -34,10 +34,9 @@ p {
   max-height: 230px;
 }
 
-.lolxd {
-  color: rgb(0, 0, 0);
-}
+.row {
 
-.imagen-footer {
-  width: 50px;
+  margin: 0px 10px 10px 10px;
+  padding: 10px;
+
 }
