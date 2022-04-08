@@ -43,7 +43,7 @@ body {
     width: 100%;
     height: 100%;
     transition: all 400ms ease-out;
-    background: rgba(224, 19, 190, 0.8);
+    background: rgba(224, 19, 190, 0.24);
     opacity: 0;
     text-align: center;
     visibility: hidden;
@@ -74,9 +74,11 @@ c.c-img figure .txt p {
     max-width: 220px;
     margin: auto;
 }
+
 .lolxd {
     color: rgb(0, 0, 0);
-  }
+}
+
 .imagen-footer {
     width: 50px;
-  }
+}
